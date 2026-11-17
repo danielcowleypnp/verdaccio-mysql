@@ -65,3 +65,7 @@ lib/
 
 # package-lock.json
 package-lock.json
+
+.idea/
+.vscode/
+.nvmrc
